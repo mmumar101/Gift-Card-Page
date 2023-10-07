@@ -36,9 +36,10 @@ function GiftCard() {
 
         <div className='button'>
           {/* Adding a button to trigger content change */}
-          <button onClick={changeSectionContent}>Change Content</button>
+          <button onClick={changeSectionContent}>Spend Gift Card</button>
         </div>
       </section>
+
     </div>
   );
 }
